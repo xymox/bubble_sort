@@ -27,6 +27,5 @@ while index < sequence.length - 1
   iter += 1
 end
 
-
 puts "Final result: #{sequence}"
 puts "Swaps: #{swaps} / #{iter}"
